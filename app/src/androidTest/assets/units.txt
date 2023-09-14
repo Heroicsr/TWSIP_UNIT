@@ -1,4 +1,4 @@
-
+﻿
 == Acceleration
 0, centimeter/s², 100.0, 0.0
 1, foot/s², 3.280839895013123, 0.0
